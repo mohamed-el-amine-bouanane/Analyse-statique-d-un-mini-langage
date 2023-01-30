@@ -1,0 +1,38 @@
+(** @canonical Dune__exe.Eval *)
+module Eval = Dune__exe__Eval
+
+
+(** @canonical Dune__exe.Polish *)
+module Polish = Dune__exe__Polish
+
+
+(** @canonical Dune__exe.Read *)
+module Read = Dune__exe__Read
+
+
+(** @canonical Dune__exe.Reprint *)
+module Reprint = Dune__exe__Reprint
+
+
+(** @canonical Dune__exe.Sign *)
+module Sign = Dune__exe__Sign
+
+
+(** @canonical Dune__exe.Simpl *)
+module Simpl = Dune__exe__Simpl
+
+
+(** @canonical Dune__exe.Test *)
+module Test = Dune__exe__Test
+
+
+(** @canonical Dune__exe.Types *)
+module Types = Dune__exe__Types
+
+
+(** @canonical Dune__exe.Utils *)
+module Utils = Dune__exe__Utils
+
+
+(** @canonical Dune__exe.Vars *)
+module Vars = Dune__exe__Vars
